@@ -1,0 +1,27 @@
+---
+title: "Hobby"
+listing: 
+  contents: posts
+  sort: "date desc"
+  type: default
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+
+## Food
+
+<img src="Food.jpeg" alt="这是一个示例图片" style="width: 60%; display: block; margin-left: 0; margin-right: auto;" />
+
+## Travel
+
+<img src="Travel.jpeg" alt="这是一个示例图片" style="width: 60%; display: block; margin-left: 0; margin-right: auto;" />
+
+
+
+
+
+
+

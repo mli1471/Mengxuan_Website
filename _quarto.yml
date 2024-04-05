@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Mengxuan's Profile"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - Project.qmd
+      - Hobby.qmd
+
+format:
+  html:
+    theme: Minty
+    css: styles.css
+    toc: true
+
+
+

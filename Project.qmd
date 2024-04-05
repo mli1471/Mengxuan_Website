@@ -1,0 +1,61 @@
+---
+title: "Project"
+listing: 
+  contents: posts
+  sort: "date desc"
+  type: default
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+# Project A : H1B Visa Application Case Analysis
+
+<table>
+<tr>
+<td style="padding-right: 10px;font-size: 21px;">
+
+In this project, our objective is to create a comprehensive visualization of the H1B visa application and approval processes across various locations and teams in the United States. Utilizing a dataset sourced from Kaggle, our team will employ Tableau to craft interactive and insightful visual representations. This approach aims to elucidate trends, patterns, and disparities in the H1B application landscape, facilitating a deeper understanding for stakeholders and interested parties.
+
+</td>
+<td style="text-align: right;">
+
+<img src="WechatIMG1299.png" alt="这是一个示例图片" style="width: 245%; max-width: 8000px;">
+
+</td>
+</tr>
+</table>
+
+
+
+
+# Project B : Documents Authentication Test 
+
+### Pipline
+
+<table>
+<tr>
+<td style="padding-right: 10px;font-size: 20px;">
+
+In this project, our objective is to establish tokens to conduct documents authentication: 1. Conducted words and signatures detection, extraction and normalization of 1472 documents then stored and encrypted them in AWS S3 as Trusted Authentication Tokens of digital documents; 2. For signature tokens, created a signature verification system to verify customers’ signatures by establishing a Transfer Learning model using Siamese Neural Network in AWS SageMaker; 3. For word tokens, built a changed word test system utilizing tokenization and word searching skills.
+
+</td>
+<td style="text-align: right;">
+
+<img src="WechatIMG1287.png" alt="这是一个示例图片" style="width: 255%; max-width: 8000px;">
+
+</td>
+</tr>
+</table>
+
+
+### The structure of transfer learning model
+
+<img src="WechatIMG1290.png" alt="这是一个示例图片" style="width: 60%; display: block; margin-left: 0; margin-right: auto;" />
+
+
+
+
+
+

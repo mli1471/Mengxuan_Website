@@ -1,0 +1,56 @@
+---
+title: "Mengxuan Li 's Profile"
+image: WechatIMG1134.jpeg
+about: 
+  template: broadside
+  image-shape: round
+  image-width: 10em
+  links: 
+    - text: Email
+      icon: envelope
+      href: mxl1471@case.edu
+    - text: Github
+      icon: github
+      href: https://github.com/virgilleeppd?ocid=AIDcmmcwpj1e5v_SEM__k_Cj0KCQjwk6SwBhDPARIsAJ59GwcSKVx3oeWYK8EGfXq5Zw34pM36ckttOZfZ-pj8XJcQpCzMrMuu6J8aAq_VEALw_wcB_k_
+    - text: Linkedin
+      icon: linkedin
+      href: https://www.linkedin.com/in/mengxuanlee/
+---
+
+Mengxuan Li is the PhD student in Biomedical and Health Informatics of Case Western Reserve University, his research interest is developing the statistical learning application in the healthcare area.
+
+
+## Education
+
+- **Case Western Reserve University, Cleveland | OH**
+
+   PhD in Biomedical and Health Informatics | Sept 2023 - Now
+
+- **University of Southern California, Los Angeles | CA**
+
+   Master in Analytics/Data Science | Sept 2021 - May 2023
+
+- **Wuhan University of Technology, Wuhan | China**
+
+   B.S in Statistics | Sept 2016 - June 2020
+
+## Experience
+
+- **CINEMA Research Group of CWRU** | Research Assistant
+
+    Sept 2023 - December 2023
+
+- **Dr. Ajitesh’s Research Team of USC** | Research Assistant
+
+    December 2022 - April 2023
+
+- **Image Processing and Informatics Lab** | Research Assistant
+
+    May 2022 - December 2022
+
+- **Computer Science Department of USC** | Teaching Assistant
+
+    Sept 2022 - December 2022
+
+
+

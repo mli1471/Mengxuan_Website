@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mengxuan Li ’s Profile",
+    "section": "",
+    "text": "Mengxuan Li is the PhD student in Biomedical and Health Informatics of Case Western Reserve University, his research interest is developing the statistical learning application in the healthcare area."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Project",
+    "section": "",
+    "text": "H1B Approval Case Analysis"
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "CV",
+    "section": "",
+    "text": "CV"
+  },
+  {
+    "objectID": "CV.html#this-is-my-cv",
+    "href": "CV.html#this-is-my-cv",
+    "title": "CV",
+    "section": "",
+    "text": "CV"
+  },
+  {
+    "objectID": "about1.html",
+    "href": "about1.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#this-is-a-quarto-website.",
+    "href": "index.html#this-is-a-quarto-website.",
+    "title": "Mengxuan Li ’s Profile",
+    "section": "",
+    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Mengxuan Li ’s Profile",
+    "section": "Education",
+    "text": "Education\n\nCase Western Reserve University, Cleveland | OH\nPhD in Biomedical and Health Informatics | Sept 2023 - Now\nUniversity of Southern California, Los Angeles | CA\nMaster in Analytics/Data Science | Sept 2021 - May 2023\nWuhan University of Technology, Wuhan | China\nB.S in Statistics | Sept 2016 - June 2020"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Mengxuan Li ’s Profile",
+    "section": "Experience",
+    "text": "Experience\n\nCINEMA Research Group of CWRU | Research Assistant\nSept 2023 - December 2023\nDr. Ajitesh’s Research Team of USC | Research Assistant\nDecember 2022 - April 2023\nImage Processing and Informatics Lab | Research Assistant\nMay 2022 - December 2022\nComputer Science Department of USC | Teaching Assistant\nSept 2022 - December 2022"
+  },
+  {
+    "objectID": "about.html#h1b-approval-case-analysis",
+    "href": "about.html#h1b-approval-case-analysis",
+    "title": "Project",
+    "section": "",
+    "text": "H1B Approval Case Analysis"
+  },
+  {
+    "objectID": "Project.html#data-science-intership",
+    "href": "Project.html#data-science-intership",
+    "title": "Project",
+    "section": "Data science Intership",
+    "text": "Data science Intership"
+  },
+  {
+    "objectID": "Project.html#pipline",
+    "href": "Project.html#pipline",
+    "title": "Project",
+    "section": "Pipline",
+    "text": "Pipline"
+  },
+  {
+    "objectID": "Project.html#the-structure-of-transfer-learning-model",
+    "href": "Project.html#the-structure-of-transfer-learning-model",
+    "title": "Project",
+    "section": "The structure of transfer learning model",
+    "text": "The structure of transfer learning model"
+  },
+  {
+    "objectID": "Project.html",
+    "href": "Project.html",
+    "title": "Project",
+    "section": "",
+    "text": "Project A : H1B Visa Application Case Analysis\n\n\n\n\nIn this project, our objective is to create a comprehensive visualization of the H1B visa application and approval processes across various locations and teams in the United States. Utilizing a dataset sourced from Kaggle, our team will employ Tableau to craft interactive and insightful visual representations. This approach aims to elucidate trends, patterns, and disparities in the H1B application landscape, facilitating a deeper understanding for stakeholders and interested parties.\n\n\n\n\n\n\n\n\n\nProject B : Documents Authentication Test\n\nPipline\n\n\n\n\nIn this project, our objective is to establish tokens to conduct documents authentication: 1. Conducted words and signatures detection, extraction and normalization of 1472 documents then stored and encrypted them in AWS S3 as Trusted Authentication Tokens of digital documents; 2. For signature tokens, created a signature verification system to verify customers’ signatures by establishing a Transfer Learning model using Siamese Neural Network in AWS SageMaker; 3. For word tokens, built a changed word test system utilizing tokenization and word searching skills.\n\n\n\n\n\n\n\n\n\nThe structure of transfer learning model\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Hobby.html",
+    "href": "Hobby.html",
+    "title": "Hobby",
+    "section": "",
+    "text": "The structure of transfer learning model\n\n \n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Hobby.html#travel",
+    "href": "Hobby.html#travel",
+    "title": "Hobby",
+    "section": "Travel",
+    "text": "Travel"
+  }
+]
